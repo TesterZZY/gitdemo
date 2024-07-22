@@ -1,7 +1,7 @@
 test1 hotfix code1
 test2 master code2
 test3
-test4
+test4 master code4
 test5
 test6
 test7
